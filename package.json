@@ -1,0 +1,24 @@
+{
+  "name": "gpx-stats",
+  "version": "0.0.1",
+  "description": "Get Stats on GPX tracks",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/gpx-stats",
+  "keywords": [
+    "node", "gpx"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/gpx-stats.git"
+  },
+  
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "gps-util": "latest"
+  }
+}
